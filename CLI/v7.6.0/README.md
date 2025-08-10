@@ -5,4 +5,4 @@
 ## system
 |n|name|desc|e.g.|O/P|
 |-|----|----|----|---|
-|1|version||`get system status \| grep -i ver`|
+|1|version||`get system status \| grep -i ver`|<img src="https://i.imgur.com/Ode8sPO.png">|
