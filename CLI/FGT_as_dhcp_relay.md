@@ -1,3 +1,4 @@
+````bash
 config system interface
     edit "port1"
         set mode dhcp
@@ -15,3 +16,5 @@ config system interface
         set dhcp-relay-ip <IP_serveur_DHCP>
     next
 end
+
+````
