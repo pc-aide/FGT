@@ -13,4 +13,4 @@ cy.get('body').then(($body) => {
 });
 ````
 
-<img src="https://i.imgur.com/yAOMAn9.png">
+<img src="https://i.imgur.com/zQcO3df.png">
