@@ -1,14 +1,3 @@
 # FGT
 FGT - Fortigate
 
-````js
-cy.get('body').then(($body) => {
-  if ($body.find('#option1').length > 0) {
-    // option1 est présent
-    cy.get('#option1').should('be.visible').click();
-  } else {
-    // sinon, option2
-    cy.get('#option2').should('be.visible').click();
-  }
-});
-````
