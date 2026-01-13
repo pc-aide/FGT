@@ -12,3 +12,7 @@ document.querySelectorAll('script').forEach(s=>{
   if (s.src) s.remove();
 });
 ````
+````js
+let modal = document.querySelector('.modal-body');
+modal.innerHTML = modal.innerHTML;
+````
